@@ -1,4 +1,7 @@
 # skeptofox
+![PyPI - Version](https://img.shields.io/pypi/v/skeptofox)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/skeptofox)
+![License](https://img.shields.io/pypi/l/skeptofox)
 
 skeptofox provides a powerful, declarative paradigm for designing, building, and analyzing complex systems where human insight and machine intelligence collaborate. Define your *what*, and Skeptofox orchestrates the *how*.
 
