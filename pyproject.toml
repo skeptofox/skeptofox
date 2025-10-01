@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "skeptofox"
-version = "0.0.1"
+version = "0.1.0"
 authors = [
   { name="skeptofox", email="skeptofox@gmail.com" },
 ]
@@ -29,12 +29,10 @@ classifiers = [
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
 
-keywords = ["agentic ai","declarative programming","automation","machine intelligence","human-in-the-loop","workflow"]
+keywords = ["agentic ai", "declarative programming", "automation", "machine intelligence", "human-in-the-loop", "workflow", "llm", "sandbox"]
 
 dependencies = [
     "packaging",
-    "pandas~=2.2",
-    "pywin32>=309; sys_platform == 'win32'",
 ]
 
 [project.urls]
